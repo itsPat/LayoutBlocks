@@ -13,6 +13,7 @@
 		18BCD73628497CB10037FA6E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18BCD73428497CB10037FA6E /* Main.storyboard */; };
 		18BCD73828497CB20037FA6E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18BCD73728497CB20037FA6E /* Assets.xcassets */; };
 		18BCD73B28497CB20037FA6E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18BCD73928497CB20037FA6E /* LaunchScreen.storyboard */; };
+		18BCD74328497D1E0037FA6E /* LayoutBlockBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BCD74228497D1E0037FA6E /* LayoutBlockBuilder.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		18BCD73728497CB20037FA6E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18BCD73A28497CB20037FA6E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18BCD73C28497CB20037FA6E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18BCD74228497D1E0037FA6E /* LayoutBlockBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayoutBlockBuilder.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				18BCD72E28497CB10037FA6E /* AppDelegate.swift */,
 				18BCD73028497CB10037FA6E /* SceneDelegate.swift */,
+				18BCD74228497D1E0037FA6E /* LayoutBlockBuilder.swift */,
 				18BCD73228497CB10037FA6E /* ViewController.swift */,
 				18BCD73428497CB10037FA6E /* Main.storyboard */,
 				18BCD73728497CB20037FA6E /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 				18BCD73328497CB10037FA6E /* ViewController.swift in Sources */,
 				18BCD72F28497CB10037FA6E /* AppDelegate.swift in Sources */,
 				18BCD73128497CB10037FA6E /* SceneDelegate.swift in Sources */,
+				18BCD74328497D1E0037FA6E /* LayoutBlockBuilder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
